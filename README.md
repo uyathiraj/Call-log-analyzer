@@ -12,7 +12,6 @@ Click on `Download Your Information`
 
 Check `Calls and Messages` and then `Create File`
 ![Alt text](step2.PNG "Title")
-<br/><br/><br/>
-
-Input the `call_logs.json`
+<br/>
+Input the `call_logs.json` file to the program
 <br/><br/>
