@@ -20,6 +20,6 @@ Input the `call_logs.json` file to the program
 
 ![Alt text](sample.PNG)
 <br/><br/>
-
+![Alt text](sample2.PNG)
 
 PS: Contact names has been changed due to privacy concern.
