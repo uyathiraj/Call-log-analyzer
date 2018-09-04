@@ -15,3 +15,9 @@ Check `Calls and Messages` and then `Create File`
 <br/>
 Input the `call_logs.json` file to the program
 <br/><br/>
+
+### Sample Output
+
+![Alt text](sample.PNG)
+
+PS: Contact names has been changed due to privacy concern.
