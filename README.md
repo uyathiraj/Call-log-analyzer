@@ -1,5 +1,5 @@
 # Call Log Analyzer
-
+Inspired By https://github.com/SachinKalsi/whatsapp-chat-analyser <br/>
 Analyze your call data 
 
 ## How to download call data
